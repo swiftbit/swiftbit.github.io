@@ -1,2 +1,2 @@
 # swiftbit.github.io
-SwiftBit site https://swiftbit.io
+SwiftBit site http://www.swiftbit.io
